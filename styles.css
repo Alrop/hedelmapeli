@@ -1,0 +1,12 @@
+.parentDiv{
+    border: 1px;
+}
+#formInput{
+    margin: 5px;
+}
+#diceAmount {
+    list-style-type: none;
+}
+#diceAmount li {
+    float: left;
+}
